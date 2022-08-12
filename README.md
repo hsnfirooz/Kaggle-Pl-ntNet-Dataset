@@ -4,9 +4,9 @@ Data Science Course Project,
 Université Côte d'Azur
 
 ## Developers
-Sheetal Borar
-Arturo Pinar
-Akos Tanczos
+Hossein Firooz <br>
+Arturo Pinar <br>
+Akos Tanczos <br>
 
 ## Libraries used
 PyTorch
